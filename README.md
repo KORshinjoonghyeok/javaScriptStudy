@@ -1,0 +1,2 @@
+# javaScriptStudy
+just for study
